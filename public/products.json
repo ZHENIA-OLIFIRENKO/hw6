@@ -1,0 +1,72 @@
+[
+    {
+        "name": "«Да Хун Пао»",
+        "price": "84 грн",
+        "image": "/images/tea3.png",
+        "article": "778467",
+        "type": "Чорний"
+    },
+    {
+        "name": "«Золотий Юннань»",
+        "price": "71 грн",
+        "image": "/images/tea9.png",
+        "article": "324242",
+        "type": "Пуер"
+    },
+    {
+        "name": "«Зелена перлина»",
+        "price": "120 грн",
+        "image": "/images/tea8.png",
+        "article": "980609",
+        "type": "Зелений"
+    },
+    {
+        "name": "«Золотий равлик»",
+        "price": "106 грн",
+        "image": "/images/tea10.png",
+        "article": "458423",
+        "type": "Червоний"
+    },
+    {
+        "name": "«Бай Хуа Лун Чжу»",
+        "price": "108 грн",
+        "image": "/images/tea1.png",
+        "article": "135317",
+        "type": "Білий"
+    },
+    {
+        "name": "«Бай Хао Інь Чжень»",
+        "price": "102 грн",
+        "image": "/images/tea2.png",
+        "article": "410096",
+        "type": "Білий"
+    },
+    {
+        "name": "«Габа»",
+        "price": "164 грн",
+        "image": "/images/tea5.png",
+        "article": "963879",
+        "type": "Улун"
+    },
+    {
+        "name": "Алішань, з гори А Лі",
+        "price": "148 грн",
+        "image": "/images/tea7.png",
+        "article": "351811",
+        "type": "Улун"
+    },
+    {
+        "name": "«Менхай Палацовий із золотою брунькою»",
+        "price": "75 грн",
+        "image": "/images/tea6.png",
+        "article": "214585",
+        "type": "Пуер"
+    },
+    {
+        "name": "«Юе Гуан Бай»",
+        "price": "95 грн",
+        "image": "/images/tea4.png",
+        "article": "351470",
+        "type": "Білий"
+    }
+]

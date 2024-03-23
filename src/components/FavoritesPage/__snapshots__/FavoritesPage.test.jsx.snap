@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders favorite page correctly 1`] = `
+<div>
+  <div
+    class="favorites-page"
+  >
+    <h2
+      class="favorites-title"
+    >
+      Favorites
+    </h2>
+    <ul
+      class="product-list"
+    >
+      <li
+        class="empty-favorites"
+      >
+        Your favorites list is empty.
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`renders favorites page correctly 1`] = `
+<div>
+  <div
+    class="favorites-page"
+  >
+    <h2
+      class="favorites-title"
+    >
+      Favorites
+    </h2>
+    <ul
+      class="product-list"
+    >
+      <li
+        class="empty-favorites"
+      >
+        Your favorites list is empty.
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`рендерить сторінку обраного товару правильно 1`] = `
+<div>
+  <div
+    class="favorites-page"
+  >
+    <h2
+      class="favorites-title"
+    >
+      Favorites
+    </h2>
+    <ul
+      class="product-list"
+    >
+      <li
+        class="empty-favorites"
+      >
+        Your favorites list is empty.
+      </li>
+    </ul>
+  </div>
+</div>
+`;

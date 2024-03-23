@@ -1,0 +1,94 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(36, 36, 36, 0.87);
+  background-color: #D8D9CE;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #2B435E;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #2b435ee0;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #2B435E;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #2b435ee0;
+  ;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+.favorite-icon {
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: #2B435E;
+  padding: 0 5px 0 5px;
+  color: rgb(255, 255, 255);
+  transition: background-color 0.2s ease;
+  padding: 1px 5px;
+}
+
+.favorite-icon:hover {
+  background-color: #2b435ee0;
+}
+
+.favorite-icon.selected {
+  color: #FFD700;
+}
+
+/* table */
+
+.table-container {
+  margin-top: 10px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.table-th,
+.table-td {
+  padding: 8px;
+  border: 2px dashed #2B435E;
+}
+
+.checkbox-label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
